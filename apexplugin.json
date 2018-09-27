@@ -1,7 +1,7 @@
 {
   "name" : "APEX Office Print (AOP)",
   "version" : "18.1",
-  "description" : "APEX Office Print (AOP) is a flexible engine for Oracle Application Express (APEX) to generate your Office, HTML, Text and PDF-documents in no time and effort - we make printing and exporting your data easy.",
+  "description" : "APEX Office Print (AOP) is a flexible engine for Oracle Application Express (APEX) to generate your Office (Word, Excel, Powerpoint), HTML, Text and PDF-documents in no time and effort - we make printing and exporting your data easy.",
   "keywords" : ["export", "print", "pdf", "word", "excel", "powerpoint", "csv", "html", "text", "report"],
   "homepage" : "https://www.apexofficeprint.com/",
   "bugs" : {
