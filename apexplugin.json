@@ -26,7 +26,7 @@
         "internalName" : "BE.APEXRND.AOP_DA",
         "type" : "dynamic action",
         "demo" : "https://www.apexofficeprint.com/ords/f?p=AOP_SAMPLE_APP_WEB:LOGIN_DESKTOP:0",
-        "previewImage" : "https://raw.github.com/APEXOfficePrint/aop-apex-plugin/blob/master/aop_sample_app_examples.png"
+        "previewImage" : "https://raw.githubusercontent.com/APEXOfficePrint/aop-apex-plugin/master/aop_sample_app_examples.png"
       }
     }
   }
