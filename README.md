@@ -5,7 +5,7 @@ APEX Office Print (AOP) plug-in for Oracle Application Express (APEX)
 
 You can use a PL/SQL API or the APEX Plug-in to print and export reports in the format you want :)
 
-# Announcement September 2018
+### Announcement September 2018
 
 Free Cloud Plans are here! Win one of 3 ***FREE LIFETIME*** Cloud Gold plans!
 
