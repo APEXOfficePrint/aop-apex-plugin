@@ -1,0 +1,33 @@
+{
+  "name" : "APEX Office Print",
+  "version" : "18.1",
+  "description" : "APEX Office Print (AOP) is a flexible engine for Oracle Application Express (APEX) to generate your Office, HTML, Text and PDF-documents in no time and effort - we make printing and exporting your data easy.",
+  "keywords" : ["export", "print", "pdf", "word", "excel", "powerpoint", "csv", "html", "text", "report"],
+  "homepage" : "https://www.apexofficeprint.com/",
+  "bugs" : {
+    "url" : "https://github.com/Dani3lSun/apex-plugin-guidedtour/issues",
+    "email" : "support@apexofficeprint.com"
+  },
+  "license" : "Commercial",
+  "author" : {
+    "name" : "APEX R&D",
+    "email" : "info@apexofficeprint.com",
+    "url" : "https://www.apexofficeprint.com/"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/APEXOfficePrint/aop-apex-plugin"
+  },
+ "oracle" : {
+    "versions" : ["11.2.0.1", "12.1.0.1", "12.2.0.1", "18.1.0.1"],
+    "apex" : {
+      "versions" : ["5.0.4", "5.1.4", "18.1"],
+      "plugin" : {
+        "internalName" : "BE.APEXRND.AOP_DA",
+        "type" : "dynamic action",
+        "demo" : "https://www.apexofficeprint.com/ords/f?p=AOP_SAMPLE_APP_WEB:LOGIN_DESKTOP:0",
+        "previewImage" : "https://github.com/APEXOfficePrint/aop-apex-plugin/blob/master/aop_sample_app_examples.png"
+      }
+    }
+  }
+}
