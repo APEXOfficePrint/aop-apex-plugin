@@ -5,7 +5,7 @@
   "keywords" : ["export", "print", "pdf", "word", "excel", "powerpoint", "csv", "html", "text", "report"],
   "homepage" : "https://www.apexofficeprint.com/",
   "bugs" : {
-    "url" : "https://github.com/Dani3lSun/apex-plugin-guidedtour/issues",
+    "url" : "https://github.com/APEXOfficePrint/aop-apex-plugin/issues",
     "email" : "support@apexofficeprint.com"
   },
   "license" : "Commercial",
@@ -21,7 +21,7 @@
  "oracle" : {
     "versions" : ["11.2.0.1", "12.1.0.1", "12.2.0.1", "18.1.0.1"],
     "apex" : {
-      "versions" : ["5.0.4", "5.1.4", "18.1"],
+      "versions" : ["5.0.4", "5.1.4", "18.1.0"],
       "plugin" : {
         "internalName" : "BE.APEXRND.AOP_DA",
         "type" : "dynamic action",
