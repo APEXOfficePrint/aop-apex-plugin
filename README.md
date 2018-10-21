@@ -9,7 +9,7 @@ You can use a PL/SQL API or the APEX Plug-in to print and export reports in the 
 
 * Run the aop_db_pkg.sql from APEX > SQL Workshop > SQL Scripts
 * Import the dynamic_action_plugin_be_apexrnd_aop_da.sql in APEX - Plug-ins
-* Get an API key from https://www.apexofficeprint.com by signing in or logging in
+* Get an API key from https://www.apexofficeprint.com by signing up or logging in
 
 ### More info
 
